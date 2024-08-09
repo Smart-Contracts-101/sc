@@ -1,1 +1,1 @@
-# badges
+# smartcontracts
